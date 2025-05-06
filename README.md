@@ -25,3 +25,5 @@ Este projeto é uma **aplicação web de e-commerce** focada na venda de **produ
 
 ## 📁 Estrutura do Projeto
 
+https://ebac-sports-weld-sigma.vercel.app/
+
